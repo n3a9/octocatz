@@ -1,3 +1,13 @@
+h1{
+  padding-top: .5em;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+html {
+    padding-bottom: 2em;
+}
+
 #left {
   width: 50%;
   float: left;
@@ -12,7 +22,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:90%;
-    height:90%;
-}
+    padding-top: 2em;
+    width:80%;
+    height:80%;
+
 }
