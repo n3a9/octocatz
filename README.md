@@ -37,3 +37,16 @@ A website to show off my collection of different octocatz, organized by index in
 - #118 Minertocat
 - #119 Jetpacktocat
 - #121 Gracehoppertocat
+
+## Development
+
+### Minify Images
+
+```sh
+$ sh minify.sh
+
+# img/100-FoundingFatherv2.jpg 1250x833 24bit N Exif XMP IPTC ICC Adobe  [OK] 265277 --> 263370 bytes (0.72%), optimized.
+# img/103-Femalecodertocat.jpg 1250x833 24bit N Exif XMP IPTC ICC Adobe  [OK] 236715 --> 233595 bytes (1.32%), optimized.
+# img/104-OctoLiberty.jpg 1250x833 24bit N Exif XMP IPTC ICC Adobe  [OK] 229256 --> 227802 bytes (0.63%), optimized.
+...
+```
