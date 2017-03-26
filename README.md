@@ -1,6 +1,6 @@
 # Octocat Collection :octocat:
 
-A website to show off my collection of different octocatz, organized by index in the [Octodex](https://octodex.github.com/). It can be found at [tiny.cc/octocatz](tiny.cc/octocatz)
+A website to show off my collection of different octocatz, organized by index in the [Octodex](https://octodex.github.com/). It can be found at [tiny.cc/octocatz](https://tiny.cc/octocatz)
 
 ## Current Octocats
 
